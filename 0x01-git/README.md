@@ -1,1 +1,2 @@
-This is the readme section for the task 0x01-git
+This is the project file for the code
+Writing comand line is interesting.
