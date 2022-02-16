@@ -1,0 +1,2 @@
+git fetch origin -to find out if there is any changes
+git pull  - to merge the changes with your local repo
